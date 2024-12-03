@@ -9,10 +9,10 @@
 
 ## Mathematics
 - [ ] Basic Mathematics equations and notation
-- [ ] Linear Algebra
-- [ ] Probability
-- [ ] Statistics
-- [ ] Calculus
+- [ ] Linear Algebra: vectors, inner product, matrices, matrix multiplication, inversion, determinants, trace, diagonal, norm. etc.
+- [ ] Probability: Gaussian distribution, probability distributions.
+- [ ] Statistics: Random variables, mean, variance.
+- [ ] Calculus: Derivatives, chain rule.
 - [ ] Eigenvalues and Eigenvectors, space (optional)
 - [ ] Bayes theorem, convexity, covariance, correlation (optional)
 
