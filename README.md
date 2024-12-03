@@ -17,4 +17,4 @@
 - [ ] Bayes theorem, convexity, covariance, correlation (optional)
 
 ## Motivation
-- [X] Motivation for learning
+- [V] Motivation for learning
