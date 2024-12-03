@@ -8,9 +8,13 @@
 - [ ] Operating System Linux and Windows
 
 ## Mathematics
-[ ] Basic Mathematics equations and notation
-[ ] Linear Algebra
-[]
-
+- [ ] Basic Mathematics equations and notation
+- [ ] Linear Algebra
+- [ ] Probability
+- [ ] Statistics
+- [ ] Calculus
+- [ ] Eigenvalues and Eigenvectors, space (optional)
+- [ ] Bayes theorem, convexity, covariance, correlation (optional)
 
 ## Motivation
+- [X] Motivation for learning
