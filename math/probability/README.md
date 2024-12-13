@@ -4,8 +4,9 @@ Is the most common or normal form of random variables distributions. Hence the n
 
 # Glosary
 
-- Standard Deviation (σ): Determines the spread of the data
+- Standard Deviation (σ): Determines the spread of the data (https://www.youtube.com/watch?v=5wJUUgnMGWA)
 - mean (μ): the average value
+- variance ():
 - median: midpoint between the lowest and highest value of the set
 - mode: most frequently occurring value
 - z-score: 
