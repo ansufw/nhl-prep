@@ -8,3 +8,4 @@ Is the most common or normal form of random variables distributions. Hence the n
 - mean (μ): the average value
 - median: midpoint between the lowest and highest value of the set
 - mode: most frequently occurring value
+- z-score: 
